@@ -1,2 +1,3 @@
 # toy_ds_project
-- project creation date: february 8, 2024
+- project creation date: February 8, 2024
+- author: Sadie Kan
